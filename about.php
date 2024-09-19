@@ -1,5 +1,5 @@
 <?php include 'assets/includes/header.php'; ?>
-
+//hallo bang
 <section class="about">
     <div class="container">
         <h1>Tentang Kami</h1>
